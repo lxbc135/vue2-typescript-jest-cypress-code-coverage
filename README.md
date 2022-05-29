@@ -1,4 +1,5 @@
 # vue2-typescript-jest-cypress-code-coverage
+> Example: Merge Jest and Cypress code coverage with Vue2, TypeScript non-class style, no Babel in initial @vue/cli scaffolding
 
 ## Project setup
 ```
@@ -23,6 +24,11 @@ yarn test:unit
 ### Run your end-to-end tests
 ```
 yarn test:e2e
+```
+
+### Run unit tests and end-to-end tests, and merge code coverage
+```
+yarn test
 ```
 
 ### Lints and fixes files

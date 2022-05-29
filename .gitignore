@@ -28,3 +28,4 @@ pnpm-debug.log*
 
 /.nyc_output/
 /coverage/
+/results/
